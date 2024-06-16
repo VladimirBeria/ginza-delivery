@@ -29,7 +29,7 @@ const Home = () => {
 
         <div className='grid sm:grid-cols-2 gap-4'>
             <img src={logo} className='rounded-2xl h-full object-cover' />
-            <img src={restaurant} className='rounded-2xl h-full object-cover' />
+            <img src={restaurant} className='p-5 rounded-full h-full object-cover' />
         </div>
 
         <div className='rounded-tr-lg rounded-bl-lg bg-gradient-to-l from-green-400 to-green-600 mt-8 h-[40px]
